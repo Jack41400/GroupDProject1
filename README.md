@@ -16,7 +16,7 @@ This is a program that will take a price input and sale percentage as a decimal 
    GroupDProject1.py
 2. using prefered CMD for python run the file
    ```python
-   import GroupDProject
+   import GroupDProject1
 
 ## Usage
 Fill in information program prompts. Be aware of the restrictions above.
